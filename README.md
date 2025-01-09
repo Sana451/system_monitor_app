@@ -11,8 +11,8 @@
 ## Установка
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/system-monitor.git
-    cd system-monitor
+    git clone https://github.com/Sana451/system_monitor_app.git
+    cd system_monitor_app
     ```
 
 2. Установите зависимости:
